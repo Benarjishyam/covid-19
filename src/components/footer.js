@@ -11,7 +11,7 @@ function Footer() {
                  Benarji Shyam
             </span>
             , Using <i className="fab fa-react" /> React JS
-            integrated with external movies data API
+            integrated with covid-19 data API
           </div>
         </div>
       </div>
