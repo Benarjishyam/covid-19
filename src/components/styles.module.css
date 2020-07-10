@@ -1,0 +1,17 @@
+.container{
+    font-size: large;
+    border-radius: 3%;
+    margin-top: 14px;
+    display: block;
+    text-shadow: coral; 
+}
+#card_container_left{
+    margin: 25px;
+
+    background-color: #d2dae2
+}
+#card_container_right{
+    margin: 25px;
+
+    background-color:#d2dae2
+}
